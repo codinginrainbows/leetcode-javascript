@@ -12,7 +12,7 @@ This is the course code for JavaScript & LeetCode: The Interview Bootcamp
 Run tests for [LC102_levelOrder](exercises/LC102_levelOrder)
 
 1) `cd` into the [Exercises](Exercises) folder
-2) Run:
+2) Then run:
 ```bash
 jest --watch LC102_levelOrder
 ```
