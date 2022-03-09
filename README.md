@@ -1,8 +1,6 @@
 # JavaScript & LeetCode: The Interview Bootcamp 
 
-<img src="https://static.kaeducation.com/lc-js-classic.jpg" width="400">
-
-This is the course code for JavaScript & LeetCode: The Interview Bootcamp
+![js-leetcode-header](https://user-images.githubusercontent.com/82886646/157477396-4e6fdc64-3ace-4ba9-aa7d-50c80aa99976.png)
 
 ## Prerequisites
 * [Node.js/npm](https://nodejs.org/en/)
