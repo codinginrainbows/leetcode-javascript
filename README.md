@@ -7,9 +7,9 @@
 * [Jest](https://www.npmjs.com/package/jest)
 
 ## Example
-Run tests for [LC102_levelOrder](exercises/LC102_levelOrder)
+Run tests for [LC125_isPalindrome](Exercises/LC125_isPalindrome)
 
-1) `cd` into the [exercises](exercises) folder
+1) `cd` into the [Exercises](Exercises) folder
 2) Then run:
 ```bash
-jest --watch LC102_levelOrder
+jest --watch LC125_isPalindrome
