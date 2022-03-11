@@ -4,4 +4,16 @@
 
 ## Prerequisites
 * [Node.js/npm](https://nodejs.org/en/)
+<<<<<<< HEAD
 * [Jest](https://www.npmjs.com/package/jest)
+=======
+* [Jest](https://www.npmjs.com/package/jest)
+
+## Example
+Run tests for [LC125_isPalindrome](Exercises/LC125_isPalindrome)
+
+1) `cd` into the [Exercises](Exercises) folder
+2) Then run:
+```bash
+jest --watch LC125_isPalindrome
+>>>>>>> 52b755efdf64863ad436677a155e94969b17406a
