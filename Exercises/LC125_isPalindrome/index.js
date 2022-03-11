@@ -1,5 +1,3 @@
-// A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
-
 // Given a string s, return true if it is a palindrome, or false otherwise.
 
 // Example 1:
@@ -18,7 +16,7 @@
 // Output: true
 // Explanation: s is an empty string "" after removing non-alphanumeric characters.
 // Since an empty string reads the same forward and backward, it is a palindrome.
-// ----------------------------------------------------------------------------------------------
+//----------------------------------------------------------------------------------------------
 
 function isPalindrome(palindrome) {
   palindrome = palindrome.toLowerCase().replace(/\s+/g, "").trim(); //regex source: https://stackoverflow.com/questions/18065807/regular-expression-for-removing-whitespaces
