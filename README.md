@@ -9,7 +9,7 @@
 ## Example
 Run tests for [LC125_isPalindrome](Exercises/LC125_isPalindrome)
 
-1) `cd` into the [Exercises](Exercises) folder
+1) `cd into the [Exercises](Exercises)` folder
 2) Then run:
 ```bash
 jest --watch LC125_isPalindrome
