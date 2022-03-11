@@ -9,12 +9,5 @@
 ## Example
 Run tests for [LC125_isPalindrome](Exercises/LC125_isPalindrome)
 
-<<<<<<< HEAD
 1) `cd` into the [Exercises](Exercises) folder
 2) Then run: ```bash jest --watch LC125_isPalindrome
-=======
-1) `cd into the [Exercises](Exercises)` folder
-2) Then run:
-```bash
-jest --watch LC125_isPalindrome
->>>>>>> f747b17e87a0659172a97202dc412df23a6ee6b3
