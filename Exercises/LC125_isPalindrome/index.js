@@ -18,14 +18,14 @@
 // Since an empty string reads the same forward and backward, it is a palindrome.
 //----------------------------------------------------------------------------------------------
 
-function isPalindrome(palindrome) {
-  palindrome = palindrome.toLowerCase().replace(/\s+/g, "").trim(); //regex source: https://stackoverflow.com/questions/18065807/regular-expression-for-removing-whitespaces
+function isPalindrome(s) {
+  s = s.toLowerCase().replace(/\s+/g, "").trim(); //regex source: https://stackoverflow.com/questions/18065807/regular-expression-for-removing-whitespaces
 
   let leftPointer = 0;
-  let rightPointer = palindrome.length - 1;
+  let rightPointer = s.length - 1;
 
   while(leftPointer < rightPointer) {
-    if (palindrome[leftPointer] !== palindrome[rightPointer]) {
+    if (s[leftPointer] !== s[rightPointer]) {
       return false;
     }
     
